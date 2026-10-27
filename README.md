@@ -15,7 +15,8 @@ ________________________________________
  Description:<br>
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
-<img width="541" height="455" alt="image" src="https://github.com/user-attachments/assets/298d0dff-4b31-4c9c-96d6-c8ca085c823c" />
+<img width="1905" height="1020" alt="image" src="https://github.com/user-attachments/assets/77f4ad39-d6aa-42e9-b630-699c8cdf2433" />
+
 
 
 ________________________________________
@@ -54,17 +55,16 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 •	Router CLI configuration<br>
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/dc012fe8-27c0-4013-8e38-8352375ed300" />
+<img width="1902" height="1017" alt="image" src="https://github.com/user-attachments/assets/510189da-ef79-4cae-8f35-0210dd1d5ade" />
+
 
 
 •	IP configurations on PCs<br>
-<img width="1600" height="897" alt="image" src="https://github.com/user-attachments/assets/17b01d07-6e42-4dc4-af35-4a1f72c7a213" />
-
-<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/1499bb09-e0e0-42b3-814e-8b55a489d4b6" />
+<img width="1902" height="1007" alt="image" src="https://github.com/user-attachments/assets/72b8a13b-345b-4aa3-99dd-992cbce529d9" />
 
 •	Successful ping between PC0 and PC1<br>
-<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/9aff563f-152c-4993-a3d3-6bcf799df595" />
-<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/c41a1628-ddbe-4ba5-a30b-093a138ad33f" />
+<img width="1907" height="1012" alt="image" src="https://github.com/user-attachments/assets/d27dd7c1-1b11-4a7d-8789-d6e36cf42a26" />
+
 
 ________________________________________
 # Result
